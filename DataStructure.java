@@ -3,7 +3,6 @@ package Library;
 import java.util.*;
 /**
  * Name:Lidor Pahima
- * ID:206735961
  * DataStructure Class designed to manage collection of elements such as books library system
  */
 public class DataStructure<T> {
