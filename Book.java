@@ -2,7 +2,6 @@ package Library;
 
 /**
  * Name:Lidor Pahima
- * ID:206735961
  * Book Class represent the Book information :Book name,Author name ,UniqueID and quantity
  */
 public class Book {
